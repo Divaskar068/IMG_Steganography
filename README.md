@@ -1,7 +1,19 @@
 # IMG_Steganography
 Cryptography Project
+The above Files are attempts on creating a Image steganography
 
-The above Files are attempts on creating a Image steganography 
+Image steganography and AES encryption are two powerful techniques used to ensure secure communication in various fields. Image steganography involves hiding secret information within an image, while AES encryption is a symmetric-key block cipher that encrypts data to prevent unauthorized access. The combination of these two techniques provides an additional layer of security, making it extremely difficult for unauthorized parties to intercept and decode sensitive information.
+
+Image Steganography and AES Encryption: A Powerful Combination
+
+<img width="1078" alt="image" src="https://github.com/user-attachments/assets/31af7ea1-802a-4d7e-bcd4-6c09b7b10060">
+
+
+Real-World Examples
+Secure Military Communication: Image steganography can be used to hide secret messages within images, which are then encrypted using AES encryption. This ensures that even if the image is intercepted, the encrypted message remains secure.
+Digital Forensics: Steganography can be used to hide digital evidence, such as fingerprints or DNA profiles, within images. AES encryption can then be used to protect the evidence from tampering or unauthorized access.
+Secure Online Transactions: AES encryption can be used to encrypt sensitive information, such as credit card numbers, while image steganography can be used to hide the encrypted data within an image.
+
 # AIM:
 To build a GUI which has options to encrypt/decrypt or to hide some info in a image 
 there should be buttons for opening an image and options to encrypt, decrypt and induce some noise in the image.
